@@ -1,0 +1,46 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    
+}
+
+header{
+  font-family: 'Oswald', sans-serif;
+  color: #ffffff;
+  background-image: url('/assets/img/image_background.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-bottom: 40rem;
+
+}
+header p{
+    font-size: 45px;
+    
+}
+.yo-soy{
+    font-family: 'Oswald', sans-serif;
+    font-weight: 200;
+    
+}
+.mi-nombre{
+    font-weight: 500;
+}
+
+
+
+.iniciales{
+    color: #ffffff;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 800;
+    
+}
+
+.texto{
+    position: absolute;
+    top: 450px;
+    right: 50px;
+    left: 50px;
+}
+
+.img-asur{
+    width: 130px;
+}
