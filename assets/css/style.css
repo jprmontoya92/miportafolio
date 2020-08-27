@@ -6,7 +6,7 @@ body{
 header{
   font-family: 'Oswald', sans-serif;
   color: #ffffff;
-  background-image: url('/assets/img/image_background.jpg');
+  background-image: url('../img/image_background.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   padding-bottom: 40rem;
